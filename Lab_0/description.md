@@ -30,4 +30,3 @@ N=1024
 Time CPU: 9765.000000 milliseconds
 Time GPU: 91.918335 milliseconds
 Acceleration: 106.235606
-
